@@ -1,38 +1,30 @@
-📘 Library Management System
-A lightweight, desktop-based Library Management System developed in Java that uses an SQL database for data storage. Designed for two main user roles—librarians and patrons—the system provides essential library features:
+# 📚 Library Management System
 
-For Librarians:
+A simple Java-based Library Management System that allows administrators to manage books, users, and lending operations. This project demonstrates basic Object-Oriented Programming concepts and Java application development suitable for academic and beginner-level projects.
 
-Add, remove, and update book records
+Project Structure
+LibraryManagementProject/
+├── src/
+│   ├── model/
+│   │   └── Book.java
+│   ├── dao/
+│   │   └── BookDAO.java
+│   ├── util/
+│   │   └── DBConnection.java
+│   ├── ui/
+│   │   └── LibraryUI.java
+│   └── Main.java
+└── create_table.sql
 
-Register new patron accounts
+## 🧑‍💻 Getting Started
 
-Issue, return, and view books, including holds and overdue items 
-en.wikipedia.org
-+11
-github.com
-+11
-youtube.com
-+11
+### Prerequisites
 
-For Patrons:
+- Java 8 or higher
+- A Java IDE (e.g., IntelliJ, Eclipse) or command-line tools
 
-Sign up and log in
-
-Browse available books
-
-Borrow, return, and place holds for books 
-
-Core Functionalities:
-
-GUI built using Java Swing
-
-Data managed and retrieved through SQL (e.g., MySQL) via JDBC
-
-Implements basic validation and user feedback flows 
-github.com
-
-🚀 Quick Start
-Set up your SQL database (e.g., MySQL); run the provided schema scripts.
-
-Update database connection settings in your Java code.
+- 1. Clone the repository:
+   ```bash
+   git clone https://github.com/AbhishekKushwaha12-cell/Library-Management-System.git
+   cd Library-Management-System
+````
