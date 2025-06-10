@@ -22,11 +22,6 @@ Sign up and log in
 Browse available books
 
 Borrow, return, and place holds for books 
-scribd.com
-+1
-projectgurukul.org
-+1
-github.com
 
 Core Functionalities:
 
