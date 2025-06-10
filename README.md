@@ -2,6 +2,12 @@
 
 A simple Java-based Library Management System that allows administrators to manage books, users, and lending operations. This project demonstrates basic Object-Oriented Programming concepts and Java application development suitable for academic and beginner-level projects.
 
+## 🛠️ Built With
+
+- **Java** — Core programming language
+- **OOP Concepts** — Classes, Objects, Inheritance, Polymorphism
+- **Text-based UI** — Simple console interactions and usingSQL
+  
 Project Structure
 LibraryManagementProject/
 ├── src/
